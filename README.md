@@ -1,25 +1,44 @@
-# AI Full Stack Journey
+# 🚀 AI + Full Stack Journey
 
-Welcome to my AI Full Stack Journey 🚀  
-This repository documents my step-by-step learning path in Python, AI, and Full Stack Development.
+Hi 👋 I’m **Mallapu Deekshitha**, an **AIDS (Artificial Intelligence & Data Science)** student.  
+This repository tracks my **daily learning progress** towards becoming an **AI + Full Stack Developer**.
 
-## About Me
-- Name: Mallapu Deekshitha
-- Department: Artificial Intelligence & Data Science
-- Learning Focus: Python, AI, Full Stack
+---
 
-## Repository Structure
-- day1_python_basics.py
-- day2_data_types.py
-- day2_operators.py
+## 🎯 Goal
+Build strong skills in **AI, Full Stack Development, and problem solving** with consistent practice and real projects.
 
-## Learning Progress
-Day 1: Python basics  
-Day 2: Data types and operators  
+---
 
-## Goal
-To become an AI + Full Stack Engineer and build strong real-world skills.
+## 🛠 Tech Stack
+- **Languages:** Python, JavaScript  
+- **AI / Data:** NumPy, Pandas, Scikit-learn (learning)  
+- **Frontend:** HTML, CSS, JavaScript, React (planned)  
+- **Backend:** Flask / Django (planned)  
+- **Tools:** Git, GitHub, VS Code  
 
-## Status
-Learning in progress 🌱
+---
+
+## 📅 Progress Log
+
+## ✅ Day 1
+- Python setup
+- VS Code setup
+- GitHub setup
+
+## ✅ Day 2
+- Python basics
+- Data types
+- Operators
+
+## ✅ Day 3
+- Control flow
+- if–else conditions
+- elif
+- for loop
+- range()
+- Input handling
+
+More updates coming soon ✨
+
 
