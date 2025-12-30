@@ -39,6 +39,13 @@ Build strong skills in **AI, Full Stack Development, and problem solving** with 
 - range()
 - Input handling
 
+## Day 4 – Loops
+- Learned while loop
+- Learned for loop
+- Implemented both loops in one Python file
+- Printed numbers using loops
+
+
 More updates coming soon ✨
 
 
