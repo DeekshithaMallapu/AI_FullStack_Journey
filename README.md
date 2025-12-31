@@ -45,6 +45,11 @@ Build strong skills in **AI, Full Stack Development, and problem solving** with 
 - Implemented both loops in one Python file
 - Printed numbers using loops
 
+### Day 5
+- Learned Python functions
+- Used parameters and return values
+- Practiced reusable code
+
 
 More updates coming soon ✨
 
