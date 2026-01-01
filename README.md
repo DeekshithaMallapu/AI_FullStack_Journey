@@ -39,17 +39,22 @@ Build strong skills in **AI, Full Stack Development, and problem solving** with 
 - range()
 - Input handling
 
-##✅ Day 4 – Loops
+## ✅ Day 4 – Loops
 - Learned while loop
 - Learned for loop
 - Implemented both loops in one Python file
 - Printed numbers using loops
 
-### Day 5
+## ✅ Day 5
 - Learned Python functions
 - Used parameters and return values
 - Practiced reusable code
 
+## ✅ Day 6 – Python Lists
+- Learned list basics
+- Accessed elements using index and negative index
+- Used append() method
+- Iterated list using for loop
 
 More updates coming soon ✨
 
