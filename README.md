@@ -56,6 +56,12 @@ Build strong skills in **AI, Full Stack Development, and problem solving** with 
 - Used append() method
 - Iterated list using for loop
 
+## ✅ Day 7 – List Logic (Odd & Even)
+- Worked with list of numbers
+- Used modulus operator (%) to find odd and even
+- Stored results in separate lists
+- Practiced logical thinking with conditions
+
 More updates coming soon ✨
 
 
