@@ -62,6 +62,12 @@ Build strong skills in **AI, Full Stack Development, and problem solving** with 
 - Stored results in separate lists
 - Practiced logical thinking with conditions
 
+## ✅ Day 8 – Python Functions
+- Learned function definition and calling
+- Used parameters in functions
+- Understood return statement
+- Wrote reusable functions
+
 More updates coming soon ✨
 
 
