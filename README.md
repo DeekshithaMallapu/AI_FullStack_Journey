@@ -68,6 +68,13 @@ Build strong skills in **AI, Full Stack Development, and problem solving** with 
 - Understood return statement
 - Wrote reusable functions
 
+## ✅ Day 9 – Functions with Conditions
+- Used if-else inside functions
+- Implemented even/odd logic
+- Took user input for dynamic checking
+- Strengthened logical thinking
+
+
 More updates coming soon ✨
 
 
