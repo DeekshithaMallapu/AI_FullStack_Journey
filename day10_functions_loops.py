@@ -7,3 +7,4 @@ def print_numbers(n):
 print_numbers(5)
 num = int(input("Enter a number: "))
 print_numbers(num)
+# Day 10 completed successfully
