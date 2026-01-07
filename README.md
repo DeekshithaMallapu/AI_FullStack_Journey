@@ -74,6 +74,13 @@ Build strong skills in **AI, Full Stack Development, and problem solving** with 
 - Took user input for dynamic checking
 - Strengthened logical thinking
 
+## ✅ Day 10 – Functions with Loops
+- Used for loop inside a function
+- Printed numbers dynamically
+- Took user input
+- Strengthened looping logic
+
+
 
 More updates coming soon ✨
 
